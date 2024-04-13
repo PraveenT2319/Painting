@@ -1133,7 +1133,7 @@ ul {
 
 .mobile-nav__content {
   width: 300px;
-  background-color: var(--ambed-black, #3c3531);
+  background-color: #212521;
   z-index: 10;
   position: relative;
   height: 100%;
