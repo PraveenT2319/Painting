@@ -25,7 +25,7 @@
   --ambed-white-rgb: 255, 255, 255;
   --ambed-black: #3c3531;
   --ambed-black-rgb: 60, 53, 49;
-  --ambed-base: #a47c68;
+  --ambed-base: #009cad;
   --ambed-base-rgb: 164, 124, 104;
   --ambed-primary: #f2eeeb;
   --ambed-primary-rgb: 242, 238, 235;
@@ -41,7 +41,7 @@ $ambed-white: var(--ambed-white, #ffffff);
 $ambed-white-rgb: var(--ambed-white-rgb, 255, 255, 255);
 $ambed-black: var(--ambed-black, #3c3531);
 $ambed-black-rgb: var(--ambed-black-rgb, 60, 53, 49);
-$ambed-base: var(--ambed-base, #a47c68);
+$ambed-base: var(--ambed-base, #009cad);
 $ambed-base-rgb: var(--ambed-base-rgb, 164, 124, 104);
 $ambed-primary: var(--ambed-primary, #f2eeeb);
 $ambed-primary-rgb: var(--ambed-primary-rgb, 242, 238, 235);
@@ -3272,7 +3272,7 @@ ul {
 .quality-work {
   position: relative;
   display: block;
-  background-color: $ambed-primary;
+  background-color: #064a72;
   padding: 250px 0 0;
   margin-top: -256px;
   overflow: hidden;
