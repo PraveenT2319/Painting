@@ -2248,7 +2248,7 @@ ul {
 
 .main-slider__border-left {
   position: absolute;
-  top: 9px;
+  top: -9px;
   bottom: 0;
   left: 0;
   border-left: 6px solid var(--ambed-base, #009cad);
@@ -2258,7 +2258,7 @@ ul {
 
 .main-slider__border-right {
   position: absolute;
-  top: 9px;
+  top: -9px;
   bottom: 0;
   right: 0;
   border-right: 6px solid var(--ambed-base, #009cad);
@@ -2271,7 +2271,7 @@ ul {
   color: var(--ambed-white, #ffffff);
   font-weight: 900;
   line-height: 80px;
-  margin-top: -36px;
+  margin-top: -15px;
   margin-bottom: 42px;
   opacity: 0;
   visibility: hidden;
@@ -3227,7 +3227,7 @@ ul {
 .services-one {
   position: relative;
   display: block;
-  padding: 245px 0 0;
+  padding: 115px 0 0;
   margin-top: -156px;
 }
 
