@@ -2233,7 +2233,7 @@ ul {
 }
 
 .main-slider__sub-title {
-  font-size: 14px;
+  font-size: 19px;
   color: var(--ambed-base, #009cad);
   font-weight: 500;
   text-transform: uppercase;
@@ -2423,9 +2423,9 @@ ul {
 }
 
 .main-slider-two__sub-title {
-  font-size: 14px;
+  font-size: 19px;
   color: var(--ambed-white, #ffffff);
-  font-weight: 500;
+  font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.2em;
   opacity: 0;
